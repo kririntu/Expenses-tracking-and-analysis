@@ -1,0 +1,336 @@
+2026-09-26 19:40:10,037 - logger - INFO - GET request for expenses on {expense_date}
+2026-09-26 19:40:10,037 - logger - INFO - GET request for expenses on {expense_date}
+2026-09-26 19:40:10,037 - logger - INFO - fetch_expenses_for_date called with {expense_date}
+2026-09-26 19:40:10,037 - logger - INFO - fetch_expenses_for_date called with {expense_date}
+2026-09-26 19:43:04,513 - logger - INFO - GET request for expenses on {expense_date}
+2026-09-26 19:43:04,513 - logger - INFO - GET request for expenses on {expense_date}
+2026-09-26 19:43:04,513 - logger - INFO - fetch_expenses_for_date called with {expense_date}
+2026-09-26 19:43:04,513 - logger - INFO - fetch_expenses_for_date called with {expense_date}
+2026-09-26 19:55:41,608 - logger - INFO - GET request for expenses on {expense_date}
+2026-09-26 19:55:41,608 - logger - INFO - GET request for expenses on {expense_date}
+2026-09-26 19:55:41,608 - logger - INFO - fetch_expenses_for_date called with {expense_date}
+2026-09-26 19:55:41,608 - logger - INFO - fetch_expenses_for_date called with {expense_date}
+2026-09-27 00:45:30,234 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Food' amount=20.0 notes=''
+2026-09-27 00:45:30,234 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Food' amount=20.0 notes=''
+2026-09-27 00:45:30,235 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Food', 'amount': 20.0, 'notes': ''}
+2026-09-27 00:45:30,235 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Food', 'amount': 20.0, 'notes': ''}
+2026-09-27 00:45:44,668 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Rent' amount=16.0 notes=''
+2026-09-27 00:45:44,668 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Rent' amount=16.0 notes=''
+2026-09-27 00:45:44,669 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Rent', 'amount': 16.0, 'notes': ''}
+2026-09-27 00:45:44,669 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Rent', 'amount': 16.0, 'notes': ''}
+2026-09-27 00:45:50,155 - logger - INFO - GET request for expenses on 2026-09-27
+2026-09-27 00:45:50,155 - logger - INFO - GET request for expenses on 2026-09-27
+2026-09-27 00:45:50,157 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-09-27 00:45:50,157 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-09-27 23:53:44,414 - logger - INFO - GET request for expenses on 2026-09-27
+2026-09-27 23:53:44,414 - logger - INFO - GET request for expenses on 2026-09-27
+2026-09-27 23:53:44,414 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-09-27 23:53:44,414 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-09-27 23:54:35,952 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Shopping' amount=30.0 notes=''
+2026-09-27 23:54:35,952 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Shopping' amount=30.0 notes=''
+2026-09-27 23:54:35,952 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Shopping', 'amount': 30.0, 'notes': ''}
+2026-09-27 23:54:35,952 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Shopping', 'amount': 30.0, 'notes': ''}
+2026-09-27 23:54:35,995 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Shopping' amount=50.0 notes=''
+2026-09-27 23:54:35,995 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Shopping' amount=50.0 notes=''
+2026-09-27 23:54:35,995 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Shopping', 'amount': 50.0, 'notes': ''}
+2026-09-27 23:54:35,995 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Shopping', 'amount': 50.0, 'notes': ''}
+2026-09-27 23:54:36,035 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Shopping' amount=70.0 notes=''
+2026-09-27 23:54:36,035 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Shopping' amount=70.0 notes=''
+2026-09-27 23:54:36,035 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Shopping', 'amount': 70.0, 'notes': ''}
+2026-09-27 23:54:36,035 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Shopping', 'amount': 70.0, 'notes': ''}
+2026-09-27 23:55:12,319 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Entertainment' amount=30.0 notes='movie'
+2026-09-27 23:55:12,319 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Entertainment' amount=30.0 notes='movie'
+2026-09-27 23:55:12,319 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Entertainment', 'amount': 30.0, 'notes': 'movie'}
+2026-09-27 23:55:12,319 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Entertainment', 'amount': 30.0, 'notes': 'movie'}
+2026-09-27 23:55:12,362 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Other' amount=50.0 notes='train'
+2026-09-27 23:55:12,362 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Other' amount=50.0 notes='train'
+2026-09-27 23:55:12,362 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Other', 'amount': 50.0, 'notes': 'train'}
+2026-09-27 23:55:12,362 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Other', 'amount': 50.0, 'notes': 'train'}
+2026-09-27 23:55:12,412 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Shopping' amount=70.0 notes='bag'
+2026-09-27 23:55:12,412 - logger - INFO - POST request to add expense: expense_date='2026-09-27' category='Shopping' amount=70.0 notes='bag'
+2026-09-27 23:55:12,412 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Shopping', 'amount': 70.0, 'notes': 'bag'}
+2026-09-27 23:55:12,412 - logger - INFO - insert_expense called with {'expense_date': '2026-09-27', 'category': 'Shopping', 'amount': 70.0, 'notes': 'bag'}
+2026-09-28 15:44:15,623 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 15:44:15,623 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 15:44:15,623 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 15:44:15,623 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 15:45:47,652 - logger - INFO - POST request to add expense: expense_date='2026-09-28' category='Food' amount=60.0 notes='Breakfast'
+2026-09-28 15:45:47,652 - logger - INFO - POST request to add expense: expense_date='2026-09-28' category='Food' amount=60.0 notes='Breakfast'
+2026-09-28 15:45:47,652 - logger - INFO - insert_expense called with {'expense_date': '2026-09-28', 'category': 'Food', 'amount': 60.0, 'notes': 'Breakfast'}
+2026-09-28 15:45:47,652 - logger - INFO - insert_expense called with {'expense_date': '2026-09-28', 'category': 'Food', 'amount': 60.0, 'notes': 'Breakfast'}
+2026-09-28 15:45:47,704 - logger - INFO - POST request to add expense: expense_date='2026-09-28' category='Food' amount=65.0 notes='lunch'
+2026-09-28 15:45:47,704 - logger - INFO - POST request to add expense: expense_date='2026-09-28' category='Food' amount=65.0 notes='lunch'
+2026-09-28 15:45:47,705 - logger - INFO - insert_expense called with {'expense_date': '2026-09-28', 'category': 'Food', 'amount': 65.0, 'notes': 'lunch'}
+2026-09-28 15:45:47,705 - logger - INFO - insert_expense called with {'expense_date': '2026-09-28', 'category': 'Food', 'amount': 65.0, 'notes': 'lunch'}
+2026-09-28 15:45:47,745 - logger - INFO - POST request to add expense: expense_date='2026-09-28' category='Food' amount=68.0 notes='Fist'
+2026-09-28 15:45:47,745 - logger - INFO - POST request to add expense: expense_date='2026-09-28' category='Food' amount=68.0 notes='Fist'
+2026-09-28 15:45:47,745 - logger - INFO - insert_expense called with {'expense_date': '2026-09-28', 'category': 'Food', 'amount': 68.0, 'notes': 'Fist'}
+2026-09-28 15:45:47,745 - logger - INFO - insert_expense called with {'expense_date': '2026-09-28', 'category': 'Food', 'amount': 68.0, 'notes': 'Fist'}
+2026-09-28 15:45:47,785 - logger - INFO - POST request to add expense: expense_date='2026-09-28' category='Food' amount=10.0 notes='coffe'
+2026-09-28 15:45:47,785 - logger - INFO - POST request to add expense: expense_date='2026-09-28' category='Food' amount=10.0 notes='coffe'
+2026-09-28 15:45:47,785 - logger - INFO - insert_expense called with {'expense_date': '2026-09-28', 'category': 'Food', 'amount': 10.0, 'notes': 'coffe'}
+2026-09-28 15:45:47,785 - logger - INFO - insert_expense called with {'expense_date': '2026-09-28', 'category': 'Food', 'amount': 10.0, 'notes': 'coffe'}
+2026-09-28 15:45:47,823 - logger - INFO - POST request to add expense: expense_date='2026-09-28' category='Food' amount=20.0 notes='Biscuit'
+2026-09-28 15:45:47,823 - logger - INFO - POST request to add expense: expense_date='2026-09-28' category='Food' amount=20.0 notes='Biscuit'
+2026-09-28 15:45:47,824 - logger - INFO - insert_expense called with {'expense_date': '2026-09-28', 'category': 'Food', 'amount': 20.0, 'notes': 'Biscuit'}
+2026-09-28 15:45:47,824 - logger - INFO - insert_expense called with {'expense_date': '2026-09-28', 'category': 'Food', 'amount': 20.0, 'notes': 'Biscuit'}
+2026-09-28 15:45:47,860 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 15:45:47,860 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 15:45:47,861 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 15:45:47,861 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 15:47:08,804 - logger - INFO - GET request for expenses on 2026-09-29
+2026-09-28 15:47:08,804 - logger - INFO - GET request for expenses on 2026-09-29
+2026-09-28 15:47:08,805 - logger - INFO - fetch_expenses_for_date called with 2026-09-29
+2026-09-28 15:47:08,805 - logger - INFO - fetch_expenses_for_date called with 2026-09-29
+2026-09-28 15:47:14,177 - logger - INFO - GET request for expenses on 2026-09-29
+2026-09-28 15:47:14,177 - logger - INFO - GET request for expenses on 2026-09-29
+2026-09-28 15:47:14,178 - logger - INFO - fetch_expenses_for_date called with 2026-09-29
+2026-09-28 15:47:14,178 - logger - INFO - fetch_expenses_for_date called with 2026-09-29
+2026-09-28 15:47:18,801 - logger - INFO - GET request for expenses on 2026-09-27
+2026-09-28 15:47:18,801 - logger - INFO - GET request for expenses on 2026-09-27
+2026-09-28 15:47:18,801 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-09-28 15:47:18,801 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-09-28 15:47:31,648 - logger - INFO - GET request for expenses on 2026-09-24
+2026-09-28 15:47:31,648 - logger - INFO - GET request for expenses on 2026-09-24
+2026-09-28 15:47:31,648 - logger - INFO - fetch_expenses_for_date called with 2026-09-24
+2026-09-28 15:47:31,648 - logger - INFO - fetch_expenses_for_date called with 2026-09-24
+2026-09-28 15:47:39,358 - logger - INFO - GET request for expenses on 2026-09-24
+2026-09-28 15:47:39,358 - logger - INFO - GET request for expenses on 2026-09-24
+2026-09-28 15:47:39,359 - logger - INFO - fetch_expenses_for_date called with 2026-09-24
+2026-09-28 15:47:39,359 - logger - INFO - fetch_expenses_for_date called with 2026-09-24
+2026-09-28 15:47:41,616 - logger - INFO - GET request for expenses on 2026-09-24
+2026-09-28 15:47:41,616 - logger - INFO - GET request for expenses on 2026-09-24
+2026-09-28 15:47:41,616 - logger - INFO - fetch_expenses_for_date called with 2026-09-24
+2026-09-28 15:47:41,616 - logger - INFO - fetch_expenses_for_date called with 2026-09-24
+2026-09-28 15:47:51,292 - logger - INFO - GET request for expenses on 2026-09-27
+2026-09-28 15:47:51,292 - logger - INFO - GET request for expenses on 2026-09-27
+2026-09-28 15:47:51,294 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-09-28 15:47:51,294 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-09-28 15:58:38,216 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 15:58:38,216 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 15:58:38,216 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 15:58:38,216 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 16:46:02,390 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 16:46:02,390 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 16:46:02,390 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 16:46:02,390 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 16:49:05,885 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 16:49:05,885 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 16:49:05,885 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 16:49:05,885 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 16:49:09,787 - logger - INFO - PUT request to update expense 9: expense_date='2026-09-28' category='Food' amount=70.0 notes='Breakfast'
+2026-09-28 16:49:09,787 - logger - INFO - PUT request to update expense 9: expense_date='2026-09-28' category='Food' amount=70.0 notes='Breakfast'
+2026-09-28 16:49:09,788 - logger - INFO - update_expense called with 9
+2026-09-28 16:49:09,788 - logger - INFO - update_expense called with 9
+2026-09-28 16:49:09,836 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 16:49:09,836 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 16:49:09,837 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 16:49:09,837 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 16:49:41,122 - logger - INFO - GET request for expenses on 2026-09-27
+2026-09-28 16:49:41,122 - logger - INFO - GET request for expenses on 2026-09-27
+2026-09-28 16:49:41,122 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-09-28 16:49:41,122 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-09-28 16:56:17,845 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 16:56:17,845 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 16:56:17,846 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 16:56:17,846 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 16:56:22,285 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 16:56:22,285 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 16:56:22,286 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 16:56:22,286 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 16:56:22,346 - logger - INFO - PUT request to update expense 9: expense_date='2026-09-28' category='Food' amount=70.0 notes='Breakfast'
+2026-09-28 16:56:22,346 - logger - INFO - PUT request to update expense 9: expense_date='2026-09-28' category='Food' amount=70.0 notes='Breakfast'
+2026-09-28 16:56:22,346 - logger - INFO - update_expense called with 9
+2026-09-28 16:56:22,346 - logger - INFO - update_expense called with 9
+2026-09-28 16:56:22,404 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 16:56:22,404 - logger - INFO - GET request for expenses on 2026-09-28
+2026-09-28 16:56:22,404 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 16:56:22,404 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-09-28 16:56:28,227 - logger - INFO - GET request for expenses on 2026-09-27
+2026-09-28 16:56:28,227 - logger - INFO - GET request for expenses on 2026-09-27
+2026-09-28 16:56:28,227 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-09-28 16:56:28,227 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-09-28 16:56:36,966 - logger - INFO - GET request for expenses on 2026-09-26
+2026-09-28 16:56:36,966 - logger - INFO - GET request for expenses on 2026-09-26
+2026-09-28 16:56:36,966 - logger - INFO - fetch_expenses_for_date called with 2026-09-26
+2026-09-28 16:56:36,966 - logger - INFO - fetch_expenses_for_date called with 2026-09-26
+2026-10-01 18:53:40,703 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 18:53:40,703 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 18:53:40,703 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 18:53:40,703 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 18:54:02,802 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 18:54:02,802 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 18:54:02,802 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 18:54:02,802 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 18:54:21,139 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 18:54:21,139 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 18:54:21,140 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 18:54:21,140 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 18:54:21,201 - logger - INFO - Analytics request from 2026-10-01 to 2026-10-01
+2026-10-01 18:54:21,201 - logger - INFO - Analytics request from 2026-10-01 to 2026-10-01
+2026-10-01 18:54:21,202 - logger - INFO - get_expense_analytics called from 2026-10-01 to 2026-10-01
+2026-10-01 18:54:21,202 - logger - INFO - get_expense_analytics called from 2026-10-01 to 2026-10-01
+2026-10-01 18:54:59,516 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 18:54:59,516 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 18:54:59,516 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 18:54:59,516 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:15:09,435 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:15:09,435 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:15:09,435 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:15:09,435 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:15:17,973 - logger - INFO - GET request for expenses on 2026-10-02
+2026-10-01 19:15:17,973 - logger - INFO - GET request for expenses on 2026-10-02
+2026-10-01 19:15:17,973 - logger - INFO - fetch_expenses_for_date called with 2026-10-02
+2026-10-01 19:15:17,973 - logger - INFO - fetch_expenses_for_date called with 2026-10-02
+2026-10-01 19:15:22,446 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:15:22,446 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:15:22,447 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:15:22,447 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:15:26,310 - logger - INFO - GET request for expenses on 2026-09-29
+2026-10-01 19:15:26,310 - logger - INFO - GET request for expenses on 2026-09-29
+2026-10-01 19:15:26,310 - logger - INFO - fetch_expenses_for_date called with 2026-09-29
+2026-10-01 19:15:26,310 - logger - INFO - fetch_expenses_for_date called with 2026-09-29
+2026-10-01 19:17:00,926 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:17:00,926 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:17:00,926 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:17:00,926 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:24:05,646 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:24:05,646 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:24:05,646 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:24:05,646 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:24:17,868 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:24:17,868 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:24:17,868 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:24:17,868 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:24:17,904 - logger - INFO - Analytics request from 2026-10-01 to 2026-10-01
+2026-10-01 19:24:17,904 - logger - INFO - Analytics request from 2026-10-01 to 2026-10-01
+2026-10-01 19:24:17,904 - logger - INFO - get_expense_analytics called from 2026-10-01 to 2026-10-01
+2026-10-01 19:24:17,904 - logger - INFO - get_expense_analytics called from 2026-10-01 to 2026-10-01
+2026-10-01 19:24:46,544 - logger - INFO - POST request to add expense: expense_date='2026-10-01' category='Food' amount=10.0 notes='fuchka'
+2026-10-01 19:24:46,544 - logger - INFO - POST request to add expense: expense_date='2026-10-01' category='Food' amount=10.0 notes='fuchka'
+2026-10-01 19:24:46,546 - logger - INFO - insert_expense called with {'expense_date': '2026-10-01', 'category': 'Food', 'amount': 10.0, 'notes': 'fuchka'}
+2026-10-01 19:24:46,546 - logger - INFO - insert_expense called with {'expense_date': '2026-10-01', 'category': 'Food', 'amount': 10.0, 'notes': 'fuchka'}
+2026-10-01 19:24:46,657 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:24:46,657 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:24:46,657 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:24:46,657 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:25:13,047 - logger - INFO - POST request to add expense: expense_date='2026-10-01' category='Rent' amount=16500.0 notes='gooba garden'
+2026-10-01 19:25:13,047 - logger - INFO - POST request to add expense: expense_date='2026-10-01' category='Rent' amount=16500.0 notes='gooba garden'
+2026-10-01 19:25:13,048 - logger - INFO - insert_expense called with {'expense_date': '2026-10-01', 'category': 'Rent', 'amount': 16500.0, 'notes': 'gooba garden'}
+2026-10-01 19:25:13,048 - logger - INFO - insert_expense called with {'expense_date': '2026-10-01', 'category': 'Rent', 'amount': 16500.0, 'notes': 'gooba garden'}
+2026-10-01 19:25:13,136 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:25:13,136 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:25:13,136 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:25:13,136 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:25:24,074 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:25:24,074 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:25:24,075 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:25:24,075 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:25:43,359 - logger - INFO - POST request to add expense: expense_date='2026-09-30' category='Shopping' amount=250.0 notes='apple'
+2026-10-01 19:25:43,359 - logger - INFO - POST request to add expense: expense_date='2026-09-30' category='Shopping' amount=250.0 notes='apple'
+2026-10-01 19:25:43,360 - logger - INFO - insert_expense called with {'expense_date': '2026-09-30', 'category': 'Shopping', 'amount': 250.0, 'notes': 'apple'}
+2026-10-01 19:25:43,360 - logger - INFO - insert_expense called with {'expense_date': '2026-09-30', 'category': 'Shopping', 'amount': 250.0, 'notes': 'apple'}
+2026-10-01 19:25:43,457 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:25:43,457 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:25:43,457 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:25:43,457 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:27:18,638 - logger - INFO - POST request to add expense: expense_date='2026-09-30' category='Food' amount=60.0 notes='lunch'
+2026-10-01 19:27:18,638 - logger - INFO - POST request to add expense: expense_date='2026-09-30' category='Food' amount=60.0 notes='lunch'
+2026-10-01 19:27:18,640 - logger - INFO - insert_expense called with {'expense_date': '2026-09-30', 'category': 'Food', 'amount': 60.0, 'notes': 'lunch'}
+2026-10-01 19:27:18,640 - logger - INFO - insert_expense called with {'expense_date': '2026-09-30', 'category': 'Food', 'amount': 60.0, 'notes': 'lunch'}
+2026-10-01 19:27:18,731 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:27:18,731 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:27:18,731 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:27:18,731 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:27:29,675 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:27:29,675 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:27:29,676 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:27:29,676 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:27:32,000 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:27:32,000 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:27:32,001 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:27:32,001 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:27:32,042 - logger - INFO - Analytics request from 2026-09-30 to 2026-10-01
+2026-10-01 19:27:32,042 - logger - INFO - Analytics request from 2026-09-30 to 2026-10-01
+2026-10-01 19:27:32,042 - logger - INFO - get_expense_analytics called from 2026-09-30 to 2026-10-01
+2026-10-01 19:27:32,042 - logger - INFO - get_expense_analytics called from 2026-09-30 to 2026-10-01
+2026-10-01 19:28:35,782 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:28:35,782 - logger - INFO - GET request for expenses on 2026-09-30
+2026-10-01 19:28:35,782 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:28:35,782 - logger - INFO - fetch_expenses_for_date called with 2026-09-30
+2026-10-01 19:28:35,820 - logger - INFO - Analytics request from 2026-09-30 to 2026-10-01
+2026-10-01 19:28:35,820 - logger - INFO - Analytics request from 2026-09-30 to 2026-10-01
+2026-10-01 19:28:35,821 - logger - INFO - get_expense_analytics called from 2026-09-30 to 2026-10-01
+2026-10-01 19:28:35,821 - logger - INFO - get_expense_analytics called from 2026-09-30 to 2026-10-01
+2026-10-01 19:29:43,986 - logger - INFO - GET request for expenses on 2026-09-27
+2026-10-01 19:29:43,986 - logger - INFO - GET request for expenses on 2026-09-27
+2026-10-01 19:29:43,986 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-10-01 19:29:43,986 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-10-01 19:29:46,914 - logger - INFO - GET request for expenses on 2026-09-28
+2026-10-01 19:29:46,914 - logger - INFO - GET request for expenses on 2026-09-28
+2026-10-01 19:29:46,915 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-10-01 19:29:46,915 - logger - INFO - fetch_expenses_for_date called with 2026-09-28
+2026-10-01 19:30:02,328 - logger - INFO - GET request for expenses on 2026-09-27
+2026-10-01 19:30:02,328 - logger - INFO - GET request for expenses on 2026-09-27
+2026-10-01 19:30:02,329 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-10-01 19:30:02,329 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-10-01 19:30:10,580 - logger - INFO - GET request for expenses on 2026-09-26
+2026-10-01 19:30:10,580 - logger - INFO - GET request for expenses on 2026-09-26
+2026-10-01 19:30:10,580 - logger - INFO - fetch_expenses_for_date called with 2026-09-26
+2026-10-01 19:30:10,580 - logger - INFO - fetch_expenses_for_date called with 2026-09-26
+2026-10-01 19:30:14,003 - logger - INFO - GET request for expenses on 2026-09-27
+2026-10-01 19:30:14,003 - logger - INFO - GET request for expenses on 2026-09-27
+2026-10-01 19:30:14,003 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-10-01 19:30:14,003 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-10-01 19:30:19,934 - logger - INFO - GET request for expenses on 2026-09-27
+2026-10-01 19:30:19,934 - logger - INFO - GET request for expenses on 2026-09-27
+2026-10-01 19:30:19,934 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-10-01 19:30:19,934 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-10-01 19:30:20,765 - logger - INFO - GET request for expenses on 2026-09-27
+2026-10-01 19:30:20,765 - logger - INFO - GET request for expenses on 2026-09-27
+2026-10-01 19:30:20,766 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-10-01 19:30:20,766 - logger - INFO - fetch_expenses_for_date called with 2026-09-27
+2026-10-01 19:30:20,839 - logger - INFO - Analytics request from 2026-09-27 to 2026-10-01
+2026-10-01 19:30:20,839 - logger - INFO - Analytics request from 2026-09-27 to 2026-10-01
+2026-10-01 19:30:20,839 - logger - INFO - get_expense_analytics called from 2026-09-27 to 2026-10-01
+2026-10-01 19:30:20,839 - logger - INFO - get_expense_analytics called from 2026-09-27 to 2026-10-01
+2026-10-01 19:34:06,626 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:34:06,626 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:34:06,626 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:34:06,626 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:34:12,890 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:34:12,890 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:34:12,890 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:34:12,890 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:34:12,933 - logger - INFO - Analytics request from 2026-10-01 to 2026-10-01
+2026-10-01 19:34:12,933 - logger - INFO - Analytics request from 2026-10-01 to 2026-10-01
+2026-10-01 19:34:12,934 - logger - INFO - get_expense_analytics called from 2026-10-01 to 2026-10-01
+2026-10-01 19:34:12,934 - logger - INFO - get_expense_analytics called from 2026-10-01 to 2026-10-01
+2026-10-01 19:34:47,249 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:34:47,249 - logger - INFO - GET request for expenses on 2026-10-01
+2026-10-01 19:34:47,249 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-01 19:34:47,249 - logger - INFO - fetch_expenses_for_date called with 2026-10-01
+2026-10-05 18:20:11,310 - logger - INFO - GET request for expenses on 2026-10-05
+2026-10-05 18:20:11,310 - logger - INFO - GET request for expenses on 2026-10-05
+2026-10-05 18:20:11,311 - logger - INFO - fetch_expenses_for_date called with 2026-10-05
+2026-10-05 18:20:11,311 - logger - INFO - fetch_expenses_for_date called with 2026-10-05
+2026-10-05 18:20:19,363 - logger - INFO - GET request for expenses on 2026-10-05
+2026-10-05 18:20:19,363 - logger - INFO - GET request for expenses on 2026-10-05
+2026-10-05 18:20:19,365 - logger - INFO - fetch_expenses_for_date called with 2026-10-05
+2026-10-05 18:20:19,365 - logger - INFO - fetch_expenses_for_date called with 2026-10-05
+2026-10-05 18:20:19,431 - logger - INFO - Analytics request from 2026-10-05 to 2026-10-05
+2026-10-05 18:20:19,431 - logger - INFO - Analytics request from 2026-10-05 to 2026-10-05
+2026-10-05 18:20:19,432 - logger - INFO - get_expense_analytics called from 2026-10-05 to 2026-10-05
+2026-10-05 18:20:19,432 - logger - INFO - get_expense_analytics called from 2026-10-05 to 2026-10-05
+2026-10-05 18:20:33,492 - logger - INFO - GET request for expenses on 2026-10-05
+2026-10-05 18:20:33,492 - logger - INFO - GET request for expenses on 2026-10-05
+2026-10-05 18:20:33,493 - logger - INFO - fetch_expenses_for_date called with 2026-10-05
+2026-10-05 18:20:33,493 - logger - INFO - fetch_expenses_for_date called with 2026-10-05
+2026-10-05 18:20:34,550 - logger - INFO - GET request for expenses on 2026-10-05
+2026-10-05 18:20:34,550 - logger - INFO - GET request for expenses on 2026-10-05
+2026-10-05 18:20:34,552 - logger - INFO - fetch_expenses_for_date called with 2026-10-05
+2026-10-05 18:20:34,552 - logger - INFO - fetch_expenses_for_date called with 2026-10-05
+2026-10-05 18:20:34,624 - logger - INFO - Analytics request from 2026-09-27 to 2026-10-05
+2026-10-05 18:20:34,624 - logger - INFO - Analytics request from 2026-09-27 to 2026-10-05
+2026-10-05 18:20:34,624 - logger - INFO - get_expense_analytics called from 2026-09-27 to 2026-10-05
+2026-10-05 18:20:34,624 - logger - INFO - get_expense_analytics called from 2026-09-27 to 2026-10-05
