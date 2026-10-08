@@ -647,7 +647,10 @@ images/
 └── analytics.png
 ```
 
-![Expense Management](images/expense-management.png)
+![Expense Management](images/1.png)
+![Expense Management](images/2.png)
+
+
 
 ![Analytics](images/analytics.png)
 
