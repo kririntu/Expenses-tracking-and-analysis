@@ -652,7 +652,8 @@ images/
 
 
 
-![Analytics](images/analytics.png)
+![Analytics](images/3.png)
+![Analytics](images/4.png)
 
 ---
 
